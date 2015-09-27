@@ -1,2 +1,3 @@
-# coursera-jhudatascience-regmods
-Coursera - Specialization Data Science - Regression Models
+# Regression Models
+## Content
+* README.md
